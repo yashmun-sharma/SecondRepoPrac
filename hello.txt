@@ -1,7 +1,11 @@
 line 1
+<<<<<<< HEAD
 
 change1
 change2
 
 change 3
 change4
+=======
+line 2 added
+>>>>>>> refs/remotes/origin/develop
